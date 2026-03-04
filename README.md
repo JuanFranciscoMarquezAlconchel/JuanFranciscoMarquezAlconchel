@@ -1,5 +1,5 @@
 # Juan Francisco Marquez Alconchel  
-**Senior Backend & Platform Engineer | Distributed Systems | Linux Specialist**  
+**Senior Full Stack Developer | Systems Architect | Linux Specialist**  
 Málaga, Spain — Open to Remote-First International Roles  
 24+ Years of Professional Experience  
 Email: jf.marquez@gmail.com  
@@ -8,71 +8,66 @@ Email: jf.marquez@gmail.com
 
 ## 🇬🇧 Professional Summary
 
-Senior Backend and Platform Engineer with 24+ years of experience designing, building, and maintaining scalable production systems in Linux environments.
+Senior Full Stack Developer with over 24 years of experience designing, developing, and maintaining production-grade systems in Linux environments.
 
-Specialized in backend architecture, distributed systems, high-availability infrastructure, and performance-critical platforms. Strong background in system integration, automation, database optimization, and infrastructure-level problem solving.
+Strong expertise in backend architecture, REST API design, frontend integration, distributed systems, high-availability infrastructures, and cloud integrations. Extensive experience delivering scalable platforms in telecom, SaaS, ERP, and media sectors.
 
-Experienced in telecom, SaaS, ERP, IPTV, and datacenter environments. Comfortable operating in remote-first teams and asynchronous collaboration models.
-
-Focused on reliability, scalability, maintainability, and long-term system stability.
+Focused on clean architecture, automation, performance optimization, and long-term maintainability in remote-first environments.
 
 ---
 
 ## 🇪🇸 Perfil Profesional
 
-Ingeniero Senior Backend y de Plataforma con más de 24 años de experiencia diseñando, desarrollando y manteniendo sistemas escalables en producción sobre entornos Linux.
+Desarrollador Full Stack Senior con más de 24 años de experiencia diseñando, desarrollando y manteniendo sistemas en producción sobre entornos Linux.
 
-Especializado en arquitectura backend, sistemas distribuidos, infraestructuras de alta disponibilidad y plataformas críticas en rendimiento. Sólida experiencia en integración de sistemas, automatización y optimización avanzada de bases de datos.
+Especializado en arquitectura backend, diseño de APIs REST, integración frontend, sistemas distribuidos e infraestructuras de alta disponibilidad. Experiencia desarrollando plataformas escalables en sectores como telecomunicaciones, SaaS, ERP y media.
 
-Experiencia en telecomunicaciones, SaaS, ERP, IPTV y entornos de datacenter. Acostumbrado a trabajar en equipos remote-first con comunicación asíncrona.
-
-Enfoque en fiabilidad, escalabilidad, mantenibilidad y estabilidad a largo plazo.
+Enfocado en arquitectura limpia, automatización, optimización de rendimiento y mantenibilidad a largo plazo en entornos remote-first.
 
 ---
 
-## Core Engineering Competencies / Competencias Clave
+## Core Competencies / Competencias Clave
 
-- Backend Architecture & REST API Design
-- Distributed Systems & High Availability (HA)
-- Platform Engineering
-- Linux Systems Administration (Advanced)
-- Infrastructure Automation
-- Performance Optimization
-- Database Architecture & Query Optimization
-- Messaging Systems (RabbitMQ)
-- Caching Strategies (Redis, Memcached)
-- Reverse Proxies & Load Balancing (HAProxy, Nginx)
-- Production Systems Monitoring & Maintenance
-- Network & Server Administration
-- Remote Collaboration & Async Workflows
+- Full Stack Web Development  
+- Backend Architecture & REST API Design  
+- Microservices & Distributed Systems  
+- Linux System Administration (Advanced)  
+- High Availability (HA) Systems  
+- Database Design & Optimization  
+- Infrastructure Automation  
+- Cloud Integrations (AWS)  
+- Payment Gateway Integration  
+- Performance Optimization  
+- CI/CD Mindset  
+- Remote Collaboration  
 
 ---
 
 ## Technical Stack / Stack Tecnológico
 
-### Backend Languages
-PHP, Python, Java, C++, Bash
+### Languages
+PHP, JavaScript, Python, Java, C++, Bash
 
-### Web & APIs
-RESTful APIs, Microservices Architecture, Node.js
+### Frontend
+HTML5, CSS3, Bootstrap, jQuery, AJAX
+
+### Backend & Frameworks
+Laravel, Lumen, Yii, Node.js
 
 ### Databases
 MySQL, PostgreSQL, Greenplum, Oracle, MongoDB
 
-### Messaging & Caching
-RabbitMQ, Redis, Memcached
-
-### Infrastructure & Platform
-Linux (advanced administration)  
-HAProxy, Nginx, Apache, Tomcat  
+### Infrastructure & DevOps
+Linux, HAProxy, Nginx, Apache, Tomcat  
+RabbitMQ, Redis, Memcached  
 Keepalived, DRBD, NFS, Samba  
 Bind9, VPNs  
 
-### Cloud & Integrations
+### Cloud & APIs
 AWS, Google APIs, Stripe, PayPal, 4B Payments
 
-### Media & Streaming Infrastructure
-IPTV Platforms, FFmpeg, Flussonic API, STB Systems
+### Media & Streaming
+IPTV Platforms, FFmpeg, Flussonic API, STB Software
 
 ---
 
@@ -80,60 +75,48 @@ IPTV Platforms, FFmpeg, Flussonic API, STB Systems
 
 ### 🇬🇧
 
-Experience integrating AI-assisted workflows into backend and infrastructure processes.
+Experience integrating AI-assisted development workflows and automation tools into backend and infrastructure processes.
 
-Working with local AI environments, backend automation scripts, infrastructure optimization and data processing pipelines. Interested in AI-driven productivity enhancement and backend integration of intelligent systems.
+Working with local AI environments, automation scripting, system optimization, and data analysis pipelines. Active experimentation with local AI models and backend integrations to improve productivity and system intelligence.
 
 ### 🇪🇸
 
-Experiencia integrando flujos de trabajo asistidos por IA en procesos backend e infraestructura.
+Experiencia integrando flujos de trabajo asistidos por inteligencia artificial y herramientas de automatización en procesos backend e infraestructura.
 
-Trabajo con entornos de IA local, automatización mediante scripting, optimización de sistemas y pipelines de procesamiento de datos. Interés en mejorar productividad y arquitectura backend mediante sistemas inteligentes.
+Trabajo con entornos de IA local, scripting de automatización, optimización de sistemas y análisis de datos. Experimentación activa con modelos de IA local e integración backend para mejorar productividad y eficiencia operativa.
 
 ---
 
-## Professional Experience Highlights / Experiencia Profesional Destacada
+## Professional Experience / Experiencia Profesional
 
 ### Senior Developer – Basebone S.L (2021–2025)
-- Backend development for statistical systems
-- Infrastructure automation scripting
-- Daemon development and maintenance
-- Database performance optimization
+- Development of statistical systems  
+- Infrastructure automation scripting  
+- Database and daemon optimization  
 
 ### Senior Developer – Webstina Global (2018–2021)
-- Subscription and ERP backend systems
-- Third-party integrations (AWS, Google APIs, Stripe)
-- Backend architecture and system interoperability
+- Subscription platform development  
+- ERP systems engineering  
+- Integrations with AWS, Google APIs, Stripe  
 
 ### Senior Developer – Málaga Data Center / Avatel (2014–2018)
-- IPTV platform backend engineering
-- Datacenter management systems
-- Linux system and network administration
-- Payment gateway integrations
+- IPTV platform engineering  
+- Datacenter management systems  
+- Linux and network administration  
+- Payment gateway integration  
 
-### Earlier Experience (2001–2014)
-- Distributed system design
-- High-availability Linux infrastructures
-- ERP software development
-- Web application backend systems
-
----
-
-## Engineering Approach / Enfoque Técnico
-
-- Linux-first mindset
-- Production-oriented development
-- Infrastructure-aware backend design
-- Automation before manual processes
-- Performance and reliability as primary goals
-- Long-term maintainable architecture
+### Previous Experience (2001–2014)
+- Distributed systems design  
+- ERP development  
+- High-availability Linux architectures  
+- Web application development  
 
 ---
 
 ## Education / Formación
 
 Technical Specialist in Digital Electronics  
-Computer Systems Engineering (incomplete)  
+Computer Systems Engineering (not completed)  
 Web Programming Certification – Andalusian Technology Park  
 
 ---
@@ -142,5 +125,5 @@ Web Programming Certification – Andalusian Technology Park
 
 Open to fully remote international roles.  
 Strong asynchronous communication skills.  
-Autonomous execution in production environments.  
-Comfortable working across distributed teams and time zones.
+Experience working independently in production environments.  
+Comfortable with distributed teams and remote collaboration workflows.
