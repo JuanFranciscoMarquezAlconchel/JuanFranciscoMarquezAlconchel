@@ -116,7 +116,7 @@ Trabajo con entornos de IA local, scripting de automatización, optimización de
 ## Education / Formación
 
 Technical Specialist in Digital Electronics  
-Computer Systems Engineering (not completed)  
+Computer Systems Engineering 
 Web Programming Certification – Andalusian Technology Park  
 
 ---
