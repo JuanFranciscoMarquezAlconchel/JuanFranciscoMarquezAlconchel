@@ -1,7 +1,6 @@
 # Juan Francisco Marquez Alconchel  
 **Senior Full Stack Developer | Systems Architect | Linux Specialist**  
 Málaga, Spain — Open to Remote-First International Roles  
-24+ Years of Professional Experience  
 Email: jf.marquez@gmail.com  
 
 ---
